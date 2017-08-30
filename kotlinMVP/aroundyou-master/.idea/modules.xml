@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\data\appandroid\kotlinMVP\aroundyou-master\NearbyMessageApi.iml" filepath="E:\data\appandroid\kotlinMVP\aroundyou-master\NearbyMessageApi.iml" />
+      <module fileurl="file://E:\data\appandroid\kotlinMVP\aroundyou-master\app\app.iml" filepath="E:\data\appandroid\kotlinMVP\aroundyou-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aroundyou-master.iml" filepath="$PROJECT_DIR$/aroundyou-master.iml" />
+    </modules>
+  </component>
+</project>
